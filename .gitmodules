@@ -1,0 +1,3 @@
+[submodule "submodules/openharness"]
+	path = submodules/openharness
+	url = https://github.com/autonomous-ai/openharness
