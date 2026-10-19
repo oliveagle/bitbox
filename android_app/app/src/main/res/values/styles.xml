@@ -1,7 +1,0 @@
-<resources>
-    <style name="Theme.App" parent="Theme.Material3.DynamicColor.Dark.NoActionBar">
-        <item name="android:windowContentOverlay">@android:color/transparent</item>
-        <item name="android:colorPrimary">@color/design_default_primary</item>
-        <item name="android:colorOnPrimary">@android:color/white</item>
-    </style>
-</resources>
